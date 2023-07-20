@@ -1,13 +1,8 @@
-## Python - Hello, World
-
-## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-## Requirements
-# Python Scripts
-Recommended editors: Visual studio code
-All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
-All your files should end with a new line
-A README.md file at the root of the alx_python repo, containing a description of the repository
-A README.md file, at the root of the folder of this project, is mandatory
-The length of your files will be tested using wc
+# Hello_World Task
+0. Hello, print
+1. Copy - Cut - Paste
+2. Positive anything is better than negative nothing
+3. The last digit
+4. Hexadecimal printing
+5. 00...99
+6. Inventing is a combination of brains and materials. The more brains you   use, the less material you need
