@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-for a in range(10):
-    for b in range(a + 1, 10):
-        combination = "{:02d}".format(a * 10 + b)
-        if a == 8 and b == 9:
-            print(combination, end="")
+for i in range(10):
+    for j in range(i + 1, 10):
+        print("{:d}{:d}".format(i, j), end="")
+        if i == 8 and j == 9:
+            print()
         else:
-            print(combination, end=", ")
-print("\n")
+            print(", ", end="")
