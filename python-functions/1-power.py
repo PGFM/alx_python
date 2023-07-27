@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def pow(a, b, precision=17):
+def pow(a, b, precision=15):
     result = 1
     if b < 0:
         a = 1 / a
