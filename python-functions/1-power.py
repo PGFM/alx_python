@@ -6,4 +6,5 @@ def pow(a, b):
     result = 1
     for _ in range(b):
         result *= a
-    return round(result, 10)  # round to 10 decimal places
+    return float(format(result, '.10g'))  # format to 10 significant figures
+
